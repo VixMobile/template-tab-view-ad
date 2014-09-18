@@ -8,6 +8,7 @@ function activate_subpage(sel, have_state)
     var parent_vis = $(parent_sel).is(":visible");
     if(parent_vis)
     {
+        $(document).trigger("pageChange");
         if(!have_state){ window.history.pushState({usubpage:sel}, sel, document.location.origin + document.location.pathname + "#" +sel); }
     }
     else
@@ -31,6 +32,7 @@ function activate_page(sel, have_state)
         
         if(!have_state){ window.history.pushState({upage:sel}, sel, document.location.origin + document.location.pathname +sel); }
     }
+    $(document).trigger("pageChange");
 }
 
 
