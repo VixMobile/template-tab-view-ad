@@ -1,4 +1,4 @@
-Tab View App (App Designer Ready)
+Tab View App
 =================
 
 This template can be used for simple tab view application that has tabs at the bottom to switch views, this template can be used for creating applications similar to Phone app, Facebook* app or Instagram* app.
@@ -9,7 +9,7 @@ You can use Intel AppFramework to create __mobile web apps__ or create __hybrid 
 
 App Framework has UI themes which look and feel similar to _iPhone_, _iPad_, _Android_, _Windows Phone_, _Blackberry 10_ and _Tizen_, the UI theme will be automatically applied by default when opened on these devices. Notice the screenshots below, the app code is same but the look and feel changes to match the device's native style.
 
-![TabViewApp](https://raw.github.com/gomobile/template-tab-view-ad/master/screenshot.png)
+![TabViewApp](https://raw.github.com/gomobile/template-tab-view/master/screenshot.png)
 
 Intel(R) XDK
 -------------------------------------------
