@@ -1,23 +1,32 @@
 {
-  "repoName": "template-cocos2d-2x-landscape",
-  "sourceURL": "",
-  "title": "Cocos2d-HTML5 2.x Landscape Game Template",
-  "abbr": "",
-  "tooltip": "A blank template for creating games from Cocos2d-HTML5 2.x",
-  "type": "",
-  "description": "Use this template to start with a blank landscape Game from Cocos2d-HTML5 2.x",
-  "keywords": [ "Blank Project","Game" ],
-  "visible": "true",
-  "highlights": ["Cocos2d", "Game"],
-  "articleUrl": "",
-  "iconUrl": "",
-  "screenshotUrl": "",
-  "zipUrl": "",
-  "appPreview": "false",
-  "appName": "",
-  "relName": "",
-  "mobile": "false",
-  "relationship": "cocos2d",
-  "gameEngine": { "name": "cocos2d", "version": "2.x" },
-  "projectTypeName": "com.intel.xdk.projecttype.webapp"
+   "iconUrl" : "",
+   "sourceURL" : "",
+   "relationship" : "cocos2d",
+   "articleUrl" : null,
+   "highlights" : [
+      "Cocos2d",
+      "Game"
+   ],
+   "title" : "Cocos2d-HTML5 2.x Landscape Game Template",
+   "screenshotUrl" : "",
+   "type" : "",
+   "zipUrl" : "",
+   "visible" : "true",
+   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
+   "keywords" : [
+      "Blank Project",
+      "Game"
+   ],
+   "abbr" : "",
+   "description" : "Use this template to start with a blank landscape Game from Cocos2d-HTML5 2.x",
+   "appName" : null,
+   "appPreview" : "false",
+   "gameEngine" : {
+      "name" : "cocos2d",
+      "version" : "2.x"
+   },
+   "repoName" : "template-cocos2d-2x-landscape",
+   "tooltip" : "A blank template for creating games from Cocos2d-HTML5 2.x",
+   "mobile" : "false",
+   "relName" : null
 }
