@@ -1,32 +1,14 @@
 {
-   "iconUrl" : "",
-   "sourceURL" : "",
-   "relationship" : "cocos2d",
-   "articleUrl" : null,
-   "highlights" : [
-      "Cocos2d",
-      "Game"
-   ],
-   "title" : "Cocos2d-HTML5 2.x Landscape Game Template",
-   "screenshotUrl" : "",
-   "type" : "",
-   "zipUrl" : "",
-   "visible" : "true",
-   "projectTypeName" : "com.intel.xdk.projecttype.webapp",
-   "keywords" : [
-      "Blank Project",
-      "Game"
-   ],
-   "abbr" : "",
-   "description" : "Use this template to start with a blank landscape Game from Cocos2d-HTML5 2.x",
-   "appName" : null,
-   "appPreview" : "false",
-   "gameEngine" : {
-      "name" : "cocos2d",
-      "version" : "2.x"
-   },
-   "repoName" : "template-cocos2d-2x-landscape",
-   "tooltip" : "A blank template for creating games from Cocos2d-HTML5 2.x",
-   "mobile" : "false",
-   "relName" : null
+"repoName":"template-tab-view-ad",
+"title":"Tab View App (App Designer)",
+"tooltip":"[App Designer Ready] App Designer Ready-This template can be used for simple tab view application that has tabs at the bottom to switch views, this template can be used for creating applications similar to Phone app, Facebook* app or Instagram* app.",
+"description":"[App Designer Ready] This template can be used for simple tab view application that has tabs at the bottom to switch views, this template can be used for creating applications similar to Phone app, Facebook* app or Instagram* app.",
+"articleUrl":"http://software.intel.com/en-us/html5/articles/templates-to-get-started-with-html5-mobile-app-development",
+"visible" : "true",
+"sortWeight":"0.2",
+"type":"appdesigner",
+"keywords":["App Designer"],
+"highlights" : ["App Designer"],
+"relationship":"tab view",
+"projectTypeName": "com.intel.xdk.projecttype.webapp"
 }
